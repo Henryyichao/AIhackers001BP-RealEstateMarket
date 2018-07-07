@@ -162,7 +162,7 @@
 
 ## 5.参考资料
 
-- [武汉统计年鉴2017]（http://www.whtj.gov.cn/newslist.aspx?id=2012111010461248）
+- [武汉统计年鉴2017](http://www.whtj.gov.cn/newslist.aspx?id=2012111010461248)
 - [中国房地产报](http://www.creb.com.cn/index.php?m=content&c=index&a=show&catid=11&id=43187)
 - [中国经营报](http://finance.ifeng.com/a/20180602/16330774_0.shtml)
 - [易居中国研究院](http://www.cricchina.com/research)
