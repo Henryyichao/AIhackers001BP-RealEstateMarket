@@ -1,3 +1,5 @@
+# 武汉购房分析报告 
+
 ## 1、武汉房价还会大涨吗？
 
 武汉本轮大涨的几个因素：人口迁入、产业集聚、政策加持。同时也要借助「元反空」模型思考，听听唱衰武汉的依据，以及思考在武汉买房不能得到什么。
@@ -146,7 +148,7 @@
 
 当然，还有很多房产[论坛](http://whbbs.fang.com/)和[贴吧](https://tieba.baidu.com/f?kw=%CE%E4%BA%BA%C2%F2%B7%BF&fr=ala0&tpl=5)可以作为辅助消息来源。
 
-##4.讨论
+## 4.讨论
 
 城市，天然就是一种反平均的集聚。
 
@@ -158,13 +160,17 @@
 
 “武汉区别于其他大城市的地方，就是‘市民化’，浓浓的生活气息是武汉的城市魅力，每次离开了都令人怀念。”购房过程中城市宜居程度的排位可能正在上升。
 
-##5.参考资料
+## 5.参考资料
 
-- 武汉统计年鉴2017
-- 中国房地产报
+- [武汉统计年鉴2017]（http://www.whtj.gov.cn/newslist.aspx?id=2012111010461248）
+- [中国房地产报](http://www.creb.com.cn/index.php?m=content&c=index&a=show&catid=11&id=43187)
 - [中国经营报](http://finance.ifeng.com/a/20180602/16330774_0.shtml)
 - [易居中国研究院](http://www.cricchina.com/research)
 - [武汉买房指南by it birds](https://github.com/itbirds/2017_wuhan_house_experience)
 
+## changelog
 
+2018-07-05 17:05 初稿
+
+2018-07-07 13:06 第二版
 
